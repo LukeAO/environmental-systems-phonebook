@@ -3,498 +3,581 @@
     "id": 0,
     "lastName": "Alegre",
     "firstName": "Adrian",
-    "cellNumber": "832-366-7602"
+    "cellNumber": "832-366-7602",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/placeholder_image.png"
   },
   {
     "id": 1,
     "lastName": "Alvi",
     "firstName": "Arjumand",
-    "cellNumber": "281-690-9284"
+    "cellNumber": "281-690-9284",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Arjumand_Alvi.jpeg"
   },
   {
     "id": 2,
     "lastName": "Bates",
     "firstName": "Kristina",
-    "cellNumber": "281-743-7530"
+    "cellNumber": "281-743-7530",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Kristina_Bates.jpg"
   },
   {
     "id": 3,
     "lastName": "Bowersox",
     "firstName": "Quinten",
-    "cellNumber": "615-310-3979"
+    "cellNumber": "615-310-3979",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Quinten_Bowersox.jpg"
   },
   {
     "id": 4,
     "lastName": "Brooks",
     "firstName": "Sara",
-    "cellNumber": "716-531-2547"
+    "cellNumber": "716-531-2547",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Sara_brooks.jpg"
   },
   {
     "id": 5,
     "lastName": "Burlingame",
     "firstName": "Katie",
-    "cellNumber": "407-310-2116"
+    "cellNumber": "407-310-2116",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/katie_burlingame.jpg"
   },
   {
     "id": 6,
     "lastName": "Cho",
     "firstName": "Edward",
-    "cellNumber": "469-400-8990"
+    "cellNumber": "469-400-8990",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Edward_Cho.jpg"
   },
   {
     "id": 7,
     "lastName": "Clayton",
     "firstName": "Jacob",
-    "cellNumber": "713-319-8831"
+    "cellNumber": "713-319-8831",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Jacob_Clayton.jpg"
   },
   {
     "id": 8,
     "lastName": "Converse",
     "firstName": "Andrew",
-    "cellNumber": "615-598-7521"
+    "cellNumber": "615-598-7521",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Andrew_converse.jpg"
   },
   {
     "id": 9,
     "lastName": "Croft",
     "firstName": "Emily",
-    "cellNumber": "217-216-0347"
+    "cellNumber": "217-216-0347",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Emily_Croft.jpg"
   },
   {
     "id": 10,
     "lastName": "Cruzen",
-    "firstName": "Julianne",
-    "cellNumber": "781-640-0524"
+    "firstName": "Julie",
+    "cellNumber": "781-640-0524",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Julie_cruzen.jpg"
   },
   {
     "id": 11,
     "lastName": "Davila",
     "firstName": "Chris",
-    "cellNumber": "281-677-1766"
+    "cellNumber": "281-677-1766",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Chris_Davila.jpg"
   },
   {
     "id": 12,
     "lastName": "DeSimpelaere",
     "firstName": "Ed",
-    "cellNumber": "346-499-3304"
+    "cellNumber": "346-499-3304",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/ed_DeSimpelaere.jpg"
   },
   {
     "id": 13,
     "lastName": "Dill",
     "firstName": "Amy",
-    "cellNumber": "617-276-6708"
+    "cellNumber": "617-276-6708",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Amy_Dill.jpg"
   },
   {
     "id": 14,
     "lastName": "Dillon(Kukla)",
     "firstName": "Chrstina",
-    "cellNumber": "281-797-0794"
+    "cellNumber": "281-797-0794",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Christina_Dillon.jpeg"
   },
   {
     "id": 15,
     "lastName": "Edwards",
     "firstName": "Amanda",
-    "cellNumber": "813-455-9610"
+    "cellNumber": "813-455-9610",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Amanda_edwards.jpg"
   },
   {
     "id": 16,
     "lastName": "Ellsworth",
     "firstName": "Kristen",
-    "cellNumber": "210-863-1799"
+    "cellNumber": "210-863-1799",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/kristen_ellsworth.jpg"
   },
   {
     "id": 17,
     "lastName": "Evangelista",
     "firstName": "Michael",
-    "cellNumber": "979-888-0804"
+    "cellNumber": "979-888-0804",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Michael_Evangelista.jpg"
   },
   {
     "id": 18,
     "lastName": "Evans",
     "firstName": "Tom",
-    "cellNumber": "281-728-5896"
+    "cellNumber": "281-728-5896",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/tom_evans.jpg"
   },
   {
     "id": 19,
     "lastName": "FitzPatrick",
     "firstName": "Mike",
-    "cellNumber": "281-704-1871"
+    "cellNumber": "281-704-1871",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Mike_Fitzpatrick.jpg"
   },
   {
     "id": 20,
     "lastName": "Flynn",
     "firstName": "Kelly",
-    "cellNumber": "347-922-8907"
+    "cellNumber": "347-922-8907",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Kelly_flynn.jpeg"
   },
   {
     "id": 21,
     "lastName": "Fujii",
     "firstName": "Ryunoske",
-    "cellNumber": "919-813-8284"
+    "cellNumber": "919-813-8284",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Ryunosuke_Fujii.jpg"
   },
   {
     "id": 22,
     "lastName": "Gosling",
     "firstName": "Paul",
-    "cellNumber": "713-447-7048"
+    "cellNumber": "713-447-7048",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Paul_Gosling.jpg"
   },
   {
     "id": 23,
     "lastName": "Goulding",
     "firstName": "Claudjia",
-    "cellNumber": "404-668-9208"
+    "cellNumber": "404-668-9208",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Claudjia_Goulding.jpeg"
   },
   {
     "id": 24,
     "lastName": "Greenberg",
     "firstName": "Ian",
-    "cellNumber": "856-430-4592"
+    "cellNumber": "856-430-4592",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Ian_Greenberg.jpg"
   },
   {
     "id": 25,
     "lastName": "Greene",
     "firstName": "Chris",
-    "cellNumber": "518-852-4902"
+    "cellNumber": "518-852-4902",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Christopher_Greene.jpg"
   },
   {
     "id": 26,
     "lastName": "Guerra-Benitez",
     "firstName": "Bobby",
-    "cellNumber": "832-330-0541"
+    "cellNumber": "832-330-0541",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Bobby_Guerra_Benitez.jpg"
   },
   {
     "id": 27,
     "lastName": "Hall",
     "firstName": "Lauren",
-    "cellNumber": "770-547-5813"
+    "cellNumber": "770-547-5813",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Lauren_Hall.jpg"
   },
   {
     "id": 28,
     "lastName": "Haque",
     "firstName": "Daniel",
-    "cellNumber": "361-463-2912"
+    "cellNumber": "361-463-2912",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Daniel_Haque.jpg"
   },
   {
     "id": 29,
     "lastName": "Harris",
     "firstName": "Bruce",
-    "cellNumber": "248-390-3312"
+    "cellNumber": "248-390-3312",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Bruce_Harris.jpg"
   },
   {
     "id": 30,
     "lastName": "Headroe",
     "firstName": "Evan",
-    "cellNumber": "469-964-3188"
+    "cellNumber": "469-964-3188",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Headroe_Evan.jpg"
   },
   {
     "id": 31,
     "lastName": "Huffaker",
     "firstName": "Zach",
-    "cellNumber": "214-886-0012"
+    "cellNumber": "214-886-0012",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Zach_Huffaker.jpg"
   },
   {
     "id": 32,
     "lastName": "Ibarra",
     "firstName": "Marcos",
-    "cellNumber": "832-764-1891"
+    "cellNumber": "832-764-1891",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Marcos_Ibarra.jpg"
   },
   {
     "id": 33,
     "lastName": "Ischy",
     "firstName": "Connie",
-    "cellNumber": "281-229-5897"
+    "cellNumber": "281-229-5897",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Connie_Ischy.jpg"
   },
   {
     "id": 34,
     "lastName": "Jones",
     "firstName": "Zach",
-    "cellNumber": "713-689-4061"
+    "cellNumber": "713-689-4061",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Zach_jones.jpg"
   },
   {
     "id": 35,
     "lastName": "Keller",
     "firstName": "Claire",
-    "cellNumber": "919-904-2232"
+    "cellNumber": "919-904-2232",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Claire_Keller.jpg"
   },
   {
     "id": 36,
     "lastName": "Kuutti",
     "firstName": "Kirsi",
-    "cellNumber": "218-969-7909"
+    "cellNumber": "218-969-7909",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Kirsi_Kuutti.jpg"
   },
   {
     "id": 37,
     "lastName": "Laabs",
     "firstName": "Steven",
-    "cellNumber": "630-881-3265"
+    "cellNumber": "630-881-3265",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Steven_Laabs.jpeg"
   },
   {
     "id": 38,
     "lastName": "Lashier",
     "firstName": "Nadine",
-    "cellNumber": "346-306-4891"
+    "cellNumber": "346-306-4891",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Nadine_Lashier.jpg"
   },
   {
     "id": 39,
     "lastName": "Lutes",
     "firstName": "Brendan",
-    "cellNumber": "720-256-8518"
+    "cellNumber": "720-256-8518",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Brendan_Lutes.jpg"
   },
   {
     "id": 40,
     "lastName": "Lynch",
     "firstName": "Caitlin",
-    "cellNumber": "941-932-0045"
+    "cellNumber": "941-932-0045",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Caitlin_Lynch.jpg"
   },
   {
     "id": 41,
     "lastName": "McPhie",
     "firstName": "Courtney",
-    "cellNumber": "832-434-9361"
+    "cellNumber": "832-434-9361",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Courtney_Duran_1.jpg"
   },
   {
     "id": 42,
     "lastName": "Narvaez-Rodriguez",
     "firstName": "Miriam",
-    "cellNumber": "469-767-3360"
+    "cellNumber": "469-767-3360",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Miriam_Narvaez_Rodriguez.jpg"
   },
   {
     "id": 43,
     "lastName": "Ney",
     "firstName": "Zane",
-    "cellNumber": "832-788-6921"
+    "cellNumber": "832-788-6921",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Zane_Ney.jpg"
   },
   {
     "id": 44,
     "lastName": "Nordmann",
     "firstName": "Lexi",
-    "cellNumber": "517-706-1869"
+    "cellNumber": "517-706-1869",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Lexi_Nordmann.jpg"
   },
   {
     "id": 45,
     "lastName": "Novo",
     "firstName": "Isabella",
-    "cellNumber": "786-417-8388"
+    "cellNumber": "786-417-8388",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Isabella_Novo.jpg"
   },
   {
     "id": 46,
     "lastName": "O'Neal",
     "firstName": "Lucas",
-    "cellNumber": "256-460-0693"
+    "cellNumber": "256-460-0693",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Luke_ONeal.jpeg"
   },
   {
     "id": 47,
     "lastName": "Panjwani",
     "firstName": "Sunny",
-    "cellNumber": "832-403-5948"
+    "cellNumber": "832-403-5948",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Shoyeb_Sunny_Panjwani.jpg"
   },
   {
     "id": 48,
     "lastName": "Parham",
     "firstName": "Zachary",
-    "cellNumber": "480-737-1359"
+    "cellNumber": "480-737-1359",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Zachary_Parham.jpg"
   },
   {
     "id": 49,
     "lastName": "Pasch",
     "firstName": "Bradley",
-    "cellNumber": "517-285-8572"
+    "cellNumber": "517-285-8572",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Bradley_Pasch.jpg"
   },
   {
     "id": 50,
     "lastName": "Patel",
     "firstName": "CJ",
-    "cellNumber": "614-620-4054"
+    "cellNumber": "614-620-4054",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Chirau_J_Patel.jpg"
   },
   {
     "id": 51,
     "lastName": "Patel",
     "firstName": "Delshi",
-    "cellNumber": "386-675-5606"
+    "cellNumber": "386-675-5606",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Delshi_Patel.png"
   },
   {
     "id": 52,
     "lastName": "Ramirez",
     "firstName": "Isis",
-    "cellNumber": "281-704-6892"
+    "cellNumber": "281-704-6892",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Isis_Ramirez.jpg"
   },
   {
     "id": 53,
     "lastName": "Ransom",
     "firstName": "Beth",
-    "cellNumber": "281-797-3160"
+    "cellNumber": "281-797-3160",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Beth_Ransom.jpg"
   },
   {
     "id": 54,
     "lastName": "Ravishankar",
     "firstName": "Sharad",
-    "cellNumber": "832-633-4236"
+    "cellNumber": "832-633-4236",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Sharad_Ravishankar.png"
   },
   {
     "id": 55,
     "lastName": "Ray",
     "firstName": "Jeff",
-    "cellNumber": "281-684-0858"
+    "cellNumber": "281-684-0858",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Jeff_Ray.jpg"
   },
   {
     "id": 56,
     "lastName": "Redfearn",
     "firstName": "Kelsi",
-    "cellNumber": "405-612-9653"
+    "cellNumber": "405-612-9653",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Kelsi_Redfearn.jpg"
   },
   {
     "id": 57,
     "lastName": "Redfern",
     "firstName": "Jason",
-    "cellNumber": "713-504-6632"
+    "cellNumber": "713-504-6632",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Jason_Redfern.jpg"
   },
   {
     "id": 58,
     "lastName": "Reid",
     "firstName": "Gabby",
-    "cellNumber": "585-690-6375"
+    "cellNumber": "585-690-6375",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Gabrielle_Reid.jpg"
   },
   {
     "id": 59,
     "lastName": "Reinecke",
     "firstName": "Becca",
-    "cellNumber": "314-560-6824"
+    "cellNumber": "314-560-6824",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Becca_Reinecke.jpg"
   },
   {
     "id": 60,
     "lastName": "Rich",
     "firstName": "Allison",
-    "cellNumber": "512-626-8673"
+    "cellNumber": "512-626-8673",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Allison_Rich.jpg"
   },
   {
     "id": 61,
     "lastName": "Robles",
     "firstName": "Marisol",
-    "cellNumber": "618-318-7611"
+    "cellNumber": "618-318-7611",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Marisol_Robles.png"
   },
   {
     "id": 62,
     "lastName": "Rocha",
     "firstName": "Cesar",
-    "cellNumber": "469-719-4613"
+    "cellNumber": "469-719-4613",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Cesar_Rocha.jpg"
   },
   {
     "id": 63,
     "lastName": "Rockefeller",
     "firstName": "Andrea",
-    "cellNumber": "570-533-1476"
+    "cellNumber": "570-533-1476",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Andrea_Rockefeller.jpg"
   },
   {
     "id": 64,
     "lastName": "Salazar",
     "firstName": "Melanie",
-    "cellNumber": "713-518-5978"
+    "cellNumber": "713-518-5978",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Melanie_Salazar.jpg"
   },
   {
     "id": 65,
     "lastName": "Southerland",
     "firstName": "Jeffrey",
-    "cellNumber": "334-652-4796"
+    "cellNumber": "334-652-4796",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Jeffrey_Southerland.jpg"
   },
   {
     "id": 66,
     "lastName": "Spears",
     "firstName": "Brian",
-    "cellNumber": "915-204-2289"
+    "cellNumber": "915-204-2289",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Brian_Spears.jpg"
   },
   {
     "id": 67,
     "lastName": "Staniak",
     "firstName": "Courtney",
-    "cellNumber": "847-315-0454"
+    "cellNumber": "847-315-0454",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Courtney_Staniak.jpg"
   },
   {
     "id": 68,
     "lastName": "Tamayo",
     "firstName": "Cece",
-    "cellNumber": "832-557-4650"
+    "cellNumber": "832-557-4650",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Cece_Tamayo.jpg"
   },
   {
     "id": 69,
     "lastName": "Tobias",
     "firstName": "Barry",
-    "cellNumber": "832-545-7213"
+    "cellNumber": "832-545-7213",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Barry_Tobias.jpg"
   },
   {
     "id": 70,
     "lastName": "Travis",
     "firstName": "Tim",
-    "cellNumber": "352-396-1730"
+    "cellNumber": "352-396-1730",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Tim_Travis.jpg"
   },
   {
     "id": 71,
     "lastName": "Trousdell",
     "firstName": "Jonathon",
-    "cellNumber": "757-645-8893"
+    "cellNumber": "757-645-8893",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Jonathon_Trousdell.jpeg"
   },
   {
     "id": 72,
     "lastName": "Truscott",
     "firstName": "Elisa",
-    "cellNumber": "713-409-4989"
+    "cellNumber": "713-409-4989",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Elisa_Truscott.jpeg"
   },
   {
     "id": 73,
     "lastName": "Vance Williams",
     "firstName": "Alexis",
-    "cellNumber": "913-953-7267"
+    "cellNumber": "913-953-7267",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Alexis_Vance.jpg"
   },
   {
     "id": 74,
     "lastName": "Vega",
     "firstName": "Abraham",
-    "cellNumber": "281-837-9003"
+    "cellNumber": "281-837-9003",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Abraham_Vega.jpg"
   },
   {
     "id": 75,
     "lastName": "Vogelgesang",
     "firstName": "Kaz",
-    "cellNumber": "281-485-1990"
+    "cellNumber": "281-485-1990",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Kaz_Vogelgesang.jpg"
   },
   {
     "id": 76,
     "lastName": "Walker",
     "firstName": "Greg",
-    "cellNumber": "512-917-4798"
+    "cellNumber": "512-917-4798",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Gregory_Walker.jpg"
   },
   {
     "id": 77,
     "lastName": "White",
     "firstName": "Matt",
-    "cellNumber": "832-544-6665"
+    "cellNumber": "832-544-6665",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/matt_white.jpg"
   },
   {
     "id": 78,
     "lastName": "Williams",
     "firstName": "Reid",
-    "cellNumber": "479-806-2950"
+    "cellNumber": "479-806-2950",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Reid_Williams.png"
   },
   {
     "id": 79,
     "lastName": "Williams",
     "firstName": "Sofia",
-    "cellNumber": "915-329-4063"
+    "cellNumber": "915-329-4063",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/Sofia_Williams.jpg"
   },
   {
     "id": 80,
     "lastName": "Yabraian",
     "firstName": "John Paul",
-    "cellNumber": "281-450-7961"
+    "cellNumber": "281-450-7961",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/John_Paul_Yabraian.jpg"
   },
   {
     "id": 81,
     "lastName": "ETHOS",
     "firstName": "",
-    "cellNumber": ""
+    "cellNumber": "",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/placeholder_image.png"
   },
   {
     "id": 82,
     "lastName": "FLIGHT",
     "firstName": "",
-    "cellNumber": ""
+    "cellNumber": "",
+    "imgSrc": "https://github.com/LukeAO/environmental-systems-phonebook/blob/main/placeholder_image.png"
   }
 ]
